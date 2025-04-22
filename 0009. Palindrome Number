@@ -1,4 +1,4 @@
-                                     9.PALINDROME NUMBER
+             9.PALINDROME NUMBER
 
 bool isPalindrome(int x) {
   if (x < 0)
