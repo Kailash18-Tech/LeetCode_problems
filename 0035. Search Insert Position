@@ -1,4 +1,4 @@
-                 35. Search Insert Position
+                  35. Search Insert Position
 
 int searchInsert(int* nums, int numsSize, int target) {
     int i;
