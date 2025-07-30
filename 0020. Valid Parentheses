@@ -1,0 +1,75 @@
+                       0020. Valid Parentheses         
+
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Every close bracket has a corresponding open bracket of the same type.
+
+
+CODING:
+
+bool isValid(char* s) {
+    char stack[10000];   // stack for brackets
+    int top = -1;
+
+    for (int i = 0; s[i] != '\0'; i++) {
+        char ch = s[i];
+
+        // Push opening brackets
+        if (ch == '(' || ch == '{' || ch == '[') {
+            stack[++top] = ch;
+        } else {
+            // If stack is empty or mismatch, return false
+            if (top == -1) return false;
+
+            char last = stack[top--]; // pop
+
+            if ((ch == ')' && last != '(') ||
+                (ch == '}' && last != '{') ||
+                (ch == ']' && last != '[')) {
+                return false;
+            }
+        }
+    }
+
+    // If stack is empty, all brackets matched
+    return top == -1;
+}
+
+
+OUTPUT:
+
+
+
+Example 1:
+
+Input: s = "()"
+
+Output: true
+
+Example 2:
+
+Input: s = "()[]{}"
+
+Output: true
+
+Example 3:
+
+Input: s = "(]"
+
+Output: false
+
+Example 4:
+
+Input: s = "([])"
+
+Output: true
+
+Example 5:
+
+Input: s = "([)]"
+
+Output: false
