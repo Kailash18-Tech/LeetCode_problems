@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
+| [0260-single-number-iii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 ## Sorting
@@ -26,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
