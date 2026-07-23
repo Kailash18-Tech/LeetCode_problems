@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0804-unique-morse-code-words](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -47,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0443-string-compression/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
