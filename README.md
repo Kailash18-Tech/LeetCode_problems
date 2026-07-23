@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
+| [0443-string-compression](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0443-string-compression/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0443-string-compression](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0443-string-compression/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
