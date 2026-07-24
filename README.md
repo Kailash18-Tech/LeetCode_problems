@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0804-unique-morse-code-words](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
 | [0443-string-compression](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0443-string-compression/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
