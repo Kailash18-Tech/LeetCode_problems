@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0804-unique-morse-code-words](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
 | [0443-string-compression](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0443-string-compression/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
