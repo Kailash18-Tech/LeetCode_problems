@@ -3,10 +3,11 @@ class Solution {
       int left = 0 ;
       for( int right = 0 ; right < nums.length ; right++ ){
 
-    
+        if(nums[left]%2==0){
+            left++;
           
-    
-         if(nums[right]%2==0 ){
+      }
+         else if(nums[right]%2==0 ){
             int temp = nums[right];
             nums[right] = nums[left];
             nums[left] = temp;
