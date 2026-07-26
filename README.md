@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
+| [0728-self-dividing-numbers](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
