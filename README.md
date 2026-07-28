@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0414-third-maximum-number/) | Easy |
@@ -83,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
