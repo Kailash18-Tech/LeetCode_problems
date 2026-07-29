@@ -20,6 +20,6 @@ class Solution {
 
         prevprev = prev;
     }
-    return prevprev;
+    return prev;
     }   
 }
