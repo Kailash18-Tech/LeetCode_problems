@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -97,13 +98,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
