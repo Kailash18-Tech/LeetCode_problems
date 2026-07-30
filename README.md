@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
