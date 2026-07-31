@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0682-baseball-game/) | Easy |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
