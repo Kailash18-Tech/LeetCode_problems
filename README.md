@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
