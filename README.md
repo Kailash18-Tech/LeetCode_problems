@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
