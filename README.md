@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0443-string-compression](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0443-string-compression/) | Medium |
@@ -154,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
