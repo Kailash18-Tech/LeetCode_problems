@@ -173,17 +173,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
