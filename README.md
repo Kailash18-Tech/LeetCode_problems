@@ -170,4 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0022-generate-parentheses/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
