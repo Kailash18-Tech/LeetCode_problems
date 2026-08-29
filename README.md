@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0547-number-of-provinces](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -190,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
