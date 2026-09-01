@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Search Tree
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -232,4 +235,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
