@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1652-defuse-the-bomb/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
