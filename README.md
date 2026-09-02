@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1046-last-stone-weight](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0743-network-delay-time/) | Medium |
+| [1046-last-stone-weight](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1046-last-stone-weight/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
