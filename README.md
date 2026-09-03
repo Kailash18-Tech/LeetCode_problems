@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0682-baseball-game/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
