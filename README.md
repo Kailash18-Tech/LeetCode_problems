@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0136-single-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
