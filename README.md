@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0260-single-number-iii) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
