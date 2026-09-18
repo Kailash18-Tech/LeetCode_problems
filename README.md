@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0507-perfect-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0507-perfect-number/) | Easy |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0443-string-compression](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0443-string-compression/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Kailash18-Tech/LeetCode_problems/tree/master/0771-jewels-and-stones) |
