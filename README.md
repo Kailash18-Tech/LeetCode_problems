@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0009-palindrome-number/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0202-happy-number/) | Easy |
