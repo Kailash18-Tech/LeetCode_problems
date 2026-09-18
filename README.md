@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0231-power-of-two/) | Easy |
+| [0507-perfect-number](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kailash18-Tech/LeetCode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Two Pointers
